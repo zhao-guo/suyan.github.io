@@ -1,12 +1,12 @@
 # Site settings
-title: 闫肃的博客
-email: suyan0830@gmail.com
+title: 赵国庆的博客
+email: hubert_zhao@163.com
 description: > # this means to ignore newlines until "baseurl:"
-  闫肃的博客
+  赵国庆的博客,欢迎访问！
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: http://yansu.org # the base hostname & protocol for your site
+url: http://virtualstar.cn # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
-author: Su Yan
+author: Zhao Guo Qing
 
 # Sidebar filter
 # Choose 'tag' or 'category' as filter in sidebar.
@@ -14,11 +14,7 @@ filter: 'category'
 recent_num: 20
 
 # Social account
-twitter: suyan404
-weibo: suyan0830
-github: suyan
-instagram: suyan404
-linkedin: suyan404
+github: zhao-guo
 
 # avatar and Favicon
 avatar: http://7u2ho6.com1.z0.glb.clouddn.com/site-avatar.png
