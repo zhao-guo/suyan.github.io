@@ -21,9 +21,6 @@ layout: default
   </div>
 </div>
 
-{% if site.disqus.shortname %}
-<div class="comment container">
-  <div id="disqus_thread">
-  </div>
-</div>
+{% if site.intensedebate_comments %}
+      {% include intensedebate-comments.html %}
 {% endif %}
