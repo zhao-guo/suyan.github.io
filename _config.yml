@@ -21,8 +21,10 @@ avatar: http://suo.im/4VPooX
 favicon: http://suo.im/4VPooX
 
 # disqus config
-disqus:
-  shortname: suyan-zh
+#disqus:
+#  shortname: suyan-zh
+
+intensedebate_comments: true
 
 # google analytics config
 ga:
