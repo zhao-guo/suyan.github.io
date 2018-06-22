@@ -2,7 +2,7 @@
 layout: post
 title: spring-boot项目使用tess4j识别文字
 category: 技术
-tags: PHP
+tags: JAVA
 description: spring-boot项目使用tess4j识别文字
 ---
 
