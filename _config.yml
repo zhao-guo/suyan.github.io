@@ -17,19 +17,11 @@ recent_num: 20
 github: zhao-guo
 
 # avatar and Favicon
-avatar: http://suo.im/4VPooX
-favicon: http://suo.im/4VPooX
+avatar: http://i4.bvimg.com/650759/d340becdcb3e64b5.jpg
+favicon: http://i4.bvimg.com/650759/d340becdcb3e64b5.jpg
 
-# disqus config
-#disqus:
-#  shortname: suyan-zh
 
 intensedebate_comments: true
-
-# google analytics config
-ga:
-  id: UA-54767140-1
-  url: yansu.org
 
 # Build settings
 permalink: /:year/:month/:day/:title.html
